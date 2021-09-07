@@ -2,10 +2,15 @@
 //
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
+    int x;
+    cin >> x;
+    if (x==0)
     std::cout << "Hello World!\n";
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
